@@ -2,7 +2,7 @@
 Позволяет загнать аккаунты по рефке в вейтлист Nansen 2.0
 
 ## Необходимо изменить
-ANTICAPTCHA_API_KEY in data/captcha/init.py ([site](http://getcaptchasolution.com/5lojkgwnnt))
+ANTICAPTCHA_API_KEY в файле data/captcha/init.py ([site](http://getcaptchasolution.com/5lojkgwnnt))
 ## Заполните следующие данные: 
  1. Emails(email:imap_pass) в файле data/inputs/emails.txt
  2. (По желанию) Proxies(login:password@ip:port) в файле data/inputs/proxies.txt
